@@ -3,7 +3,6 @@
 - Hall et al (2022) provide a literature review of how to measure human develompent indicators using satellite imagery, in particular asset-based measures of welfare and deprivation. They provide a number of examples where these approaches have been used to estimate welfare or poverty-related measures with precision and resolution close to large-scale household surveys. They conclude that explainability of large-scale machine learning models in this domain is a key barrier for further adoption by policy makers.  https://www.sciencedirect.com/science/article/pii/S2666389922002252
 
 
-
 ## List of papers discussing machine learning and streetview data in policy making
 
 - Suel et al (2023) establish an unsupervised method to measure progress in urban development, using time series google streetview data for London from 2012 - 2020
