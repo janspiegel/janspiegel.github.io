@@ -42,9 +42,6 @@ Suel, E., Bhatt, S., Brauer, M., Flaxman, S., & Ezzati, M. (2021). Multimodal de
 Hamid Sarmadi∗, Thorsteinn R¨ognvaldsson∗,Nils Roger Carlsson∗, Mattias Ohlsson∗‡, Ibrahim Wahab†, Ola Hall† (2023). Towards Explaining Satellite Based Poverty
 Predictions with Convolutional Neural Networks. https://arxiv.org/pdf/2312.00416.pdf
 
-Ola Hall, Mattias Ohlsson, Thorsteinn Rögnvaldsson (2022), A review of explainable AI in the satellite data, deep machine learning, and human poverty domain,
-Patterns. https://www.sciencedirect.com/science/article/pii/S2666389922002252
-
 Xie, M., Jean, N., Burke, M., Lobell, D. and Ermon, S., 2016, March. Transfer learning from deep features for remote sensing and poverty mapping. In Proceedings of the AAAI conference on artificial intelligence (Vol. 30, No. 1). https://ojs.aaai.org/index.php/AAAI/article/view/9906/9765
 
 Y. Tan, P. Wu, G. Zhou, Y. Li and B. Bai, "Combining Residual Neural Networks and Feature Pyramid Networks to Estimate Poverty Using Multisource Remote Sensing Data," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 553-565, 2020, doi: 10.1109/JSTARS.2020.2968468. https://ieeexplore.ieee.org/document/8970370
@@ -54,6 +51,10 @@ Liu, Haoyu, Xianwen He, Yanbing Bai, Xing Liu, Yilin Wu, Yanyun Zhao, and Hanfan
 Chi G, Fang H, Chatterjee S, Blumenstock JE. Microestimates of wealth for all low- and middle-income countries. Proc Natl Acad Sci U S A. 2022 Jan 18;119(3):e2113658119. doi: 10.1073/pnas.2113658119. PMID: 35017299; PMCID: PMC8784134. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8784134/
 
 
+## Literature reviews
+
+Ola Hall, Mattias Ohlsson, Thorsteinn Rögnvaldsson (2022), A review of explainable AI in the satellite data, deep machine learning, and human poverty domain,
+Patterns. https://www.sciencedirect.com/science/article/pii/S2666389922002252
 
 
 
